@@ -73,7 +73,7 @@
     "keyv": "^4.5.4",
     "keyv-file": "^0.2.0",
     "klona": "^2.0.6",
-    "langchain": "^0.2.19",
+    "langchain": "^0.3.36",
     "librechat-data-provider": "*",
     "librechat-mcp": "*",
     "lodash": "^4.17.21",
