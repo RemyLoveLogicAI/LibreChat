@@ -47,7 +47,7 @@
     "@langchain/textsplitters": "^0.1.0",
     "@librechat/agents": "^2.0.0",
     "@waylaidwanderer/fetch-event-source": "^3.0.1",
-    "axios": "^1.7.7",
+    "axios": "^1.8.2",
     "bcryptjs": "^2.4.3",
     "cheerio": "^1.0.0-rc.12",
     "cohere-ai": "^7.9.1",
